@@ -1,0 +1,16 @@
+.pixel{
+    background-color: green;
+    width: 1000px;
+    height: 100px;
+}
+
+html{
+    background-color: black;
+    color: aliceblue; 
+}
+
+h1{
+    border: 20px solid;
+    border-color: blue yellow beige green;
+    padding: 20px;
+}
